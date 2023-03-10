@@ -1,0 +1,2 @@
+alias sp="bash spin"
+alias sp-deploy="bash spin deploy -f -p"

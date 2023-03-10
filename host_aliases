@@ -1,0 +1,2 @@
+
+alias spindev="docker exec -w /app/spinergie -it spinergie /bin/bash"

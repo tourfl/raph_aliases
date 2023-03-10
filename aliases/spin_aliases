@@ -1,2 +1,3 @@
 alias sp="bash spin"
 alias cdapp="cd /app/spinergie"
+alias load-dump="workon py39; python /app/spindata/spindevops/load_dump.py"
